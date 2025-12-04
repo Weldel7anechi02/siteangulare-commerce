@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User",
+      "createdAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "username": "azizhannechi626",
+      "email": "azizhannechi626@gmail.com",
+      "password": "azerty",
+      "role": "customer",
+      "name": "Mohamed Aziz Hannechi",
+      "createdAt": "2025-05-22T20:36:19.022Z"
+    },
+    {
+      "id": 3,
+      "username": "azizhannechi6",
+      "email": "azizhannechi6@gmail.com",
+      "password": "123123",
+      "role": "customer",
+      "name": "Mohamed Aziz Hannechi",
+      "createdAt": "2025-05-22T21:09:30.805Z"
+    },
+    {
+      "id": 4,
+      "username": "azizhannechi7",
+      "email": "azizhannechi7@gmail.com",
+      "password": "azerty",
+      "role": "customer",
+      "name": "azizaziz",
+      "createdAt": "2025-05-23T10:26:15.641Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "pull_1",
+      "name": "Pull 1",
+      "price": 50,
+      "src": "assets/pull01.jpg",
+      "alt": "Pull 1",
+      "stock": 25,
+      "category": "Pull",
+      "description": "Pull élégant pour homme, parfait pour l'hiver.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pull_2",
+      "name": "Pull 2",
+      "price": 60,
+      "src": "assets/pull02.avif",
+      "alt": "Pull 2",
+      "stock": 18,
+      "category": "Pull",
+      "description": "Pull moderne et confortable.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pull_3",
+      "name": "Pull 3",
+      "price": 55,
+      "src": "assets/pull03.webp",
+      "alt": "Pull 3",
+      "stock": 30,
+      "category": "Pull",
+      "description": "Pull casual pour toutes occasions.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pull_4",
+      "name": "Pull 4",
+      "price": 70,
+      "src": "assets/pull04.jpg",
+      "alt": "Pull 4",
+      "stock": 12,
+      "category": "Pull",
+      "description": "Pull premium de haute qualité.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pantalon_1",
+      "name": "Pantalon 1",
+      "price": 40,
+      "src": "assets/pantalon01.webp",
+      "alt": "Pantalon 1",
+      "stock": 22,
+      "category": "Pantalons",
+      "description": "Pantalon confortable et élégant.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pantalon_2",
+      "name": "Pantalon 2",
+      "price": 45,
+      "src": "assets/pantalon02.jpeg",
+      "alt": "Pantalon 2",
+      "stock": 15,
+      "category": "Pantalons",
+      "description": "Pantalon slim fit moderne.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pantalon_3",
+      "name": "Pantalon 3",
+      "price": 50,
+      "src": "assets/pantalon03.jpeg",
+      "alt": "Pantalon 3",
+      "stock": 20,
+      "category": "Pantalons",
+      "description": "Pantalon décontracté pour le quotidien.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "pantalon_4",
+      "name": "Pantalon 4",
+      "price": 55,
+      "src": "assets/pantalon04.webp",
+      "alt": "Pantalon 4",
+      "stock": 18,
+      "category": "Pantalons",
+      "description": "Pantalon chic pour occasions spéciales.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "chaussure_1",
+      "name": "Chaussure 1",
+      "price": 80,
+      "src": "assets/chausseur01.jpg",
+      "alt": "Chaussure 1",
+      "stock": 10,
+      "category": "Chaussures",
+      "description": "Chaussures classiques en cuir véritable.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "chaussure_2",
+      "name": "Chaussure 2",
+      "price": 85,
+      "src": "assets/chausseur02.jpg",
+      "alt": "Chaussure 2",
+      "stock": 14,
+      "category": "Chaussures",
+      "description": "Chaussures sport modernes.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "chaussure_3",
+      "name": "Chaussure 3",
+      "price": 90,
+      "src": "assets/chausseur03.webp",
+      "alt": "Chaussure 3",
+      "stock": 8,
+      "category": "Chaussures",
+      "description": "Chaussures décontractées pour tous les jours.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "chaussure_4",
+      "name": "Chaussure 4",
+      "price": 95,
+      "src": "assets/chausseur04.jpg",
+      "alt": "Chaussure 4",
+      "stock": 5,
+      "category": "Chaussures",
+      "description": "Chaussures premium de luxe.",
+      "createdAt": "2023-01-15T00:00:00.000Z",
+      "updatedAt": "2023-05-10T00:00:00.000Z"
+    }
+  ],
+  "orders": []
+}
